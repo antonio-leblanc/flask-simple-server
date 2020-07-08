@@ -1,5 +1,8 @@
-from app_test import app
+from app_factory import create_app
+from configs import DevelopmentConfig
     
+app = create_app(DevelopmentConfig())
+
 if __name__ == '__main__':
-    app.run(threaded=True, debug=True, port=5000) 
+    app.run(threaded=True) 
 
