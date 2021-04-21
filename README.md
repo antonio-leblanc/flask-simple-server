@@ -21,3 +21,8 @@ pip install -r requirements.txt
 python server_run.py
 ```
 
+4. Read the docs and watch some youtube videos!
+- official docs:  https://flask.palletsprojects.com/en/1.1.x/quickstart/
+- flask series : https://www.youtube.com/watch?v=BUmUV8YOzgM&list=PLF2JzgCW6-YY_TZCmBrbOpgx5pSNBD0_L
+- https://www.youtube.com/watch?v=PTZiDnuC86g
+- https://www.youtube.com/watch?v=MbXEQZZSvzk 
