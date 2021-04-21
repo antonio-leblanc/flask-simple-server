@@ -1,7 +1,8 @@
 ## Simple-Flask-Server
 
 I created this project while learning [Flask](https://flask.palletsprojects.com/en/1.1.x/), a python backend framework
-![flaskimg](https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png)
+
+![flaskimg](https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png)
 
 To use this project
 
